@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Suyash Nikam</h1>
-<h3 align="center">🖥️ Python Developer with 3+ years of experience in Python, Django, and Odoo.</h3>
+<h3 align="center"> A Software Engineer (Python Development, DevOps, API Integrations). With a passion for Cloud Native Technologies & DevOps. 3+ years of professional onsite as well as remote working experience.</h3>
 
-- 🔭 I’m currently working on **Python Odoo technology.**
+- 🔭 I’m currently working on **Python Odoo Technology**
 
 - 🌱 I’m currently learning **DevOps Tools**
 
 - 👯 I’m looking to collaborate on **Cloud Native Technology**
 
-- 🤝 I’m looking for help with **DevOps**
-
 - 👨‍💻 All of my projects are available at [https://github.com/suyashnikam](https://github.com/suyashnikam)
 
 - 💬 Ask me about **Django, Odoo, AWS Cloud, DevOps.**
 
-- 📫 How to reach me **suyashnikam1998@gmail.com**
+- 📫 To reach out **suyashnikam1998@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/suyashnikam/suyash_resume/blob/main/Suyash_Nikam_python_cloud_developer.pdf](https://github.com/suyashnikam/suyash_resume/blob/main/Suyash_Nikam_python_cloud_developer.pdf)
+- 📄 Know about my experiences and history: [https://github.com/suyashnikam/suyash_resume/blob/main/Suyash_Nikam_python_cloud_developer.pdf](https://github.com/suyashnikam/suyash_resume/blob/main/Suyash_Nikam_python_cloud_developer.pdf)
 
 - ⚡ Fun fact **Cloud computing fascinates me so much that I even dream of deploying servers in my sleep.**
 
