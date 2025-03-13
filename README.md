@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyash Nikam</h1>
 <h3 align="center"> A Software Engineer (Python Development, DevOps, API Integrations). With a passion for Cloud Native Technologies & DevOps. 3+ years of professional onsite as well as remote working experience.</h3>
 
-- 🔭 I’m currently working on **Python Odoo Technology**
+- 🔭 I’m currently working on **Python Django Technology along with cloud & DevOps**
 
 - 🌱 I’m currently learning **DevOps Tools**
 
